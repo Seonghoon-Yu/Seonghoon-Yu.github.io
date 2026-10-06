@@ -12,7 +12,7 @@ const PUBLICATIONS = [
   {
     title: "When to Switch: Reliable Action-Chunk Extension for Vision-Language-Action Models",
     authors: ["Seonghoon Yu", "Dongwon Kim", "HyungRok Jung", "Yoonjae Baek", "Byung-kwan Lee", "Suha Kwak", "Jeany Son"],
-    venue: "ICLR 2027 (under review)",
+    venue: "Under review",
     year: 2026,
     teaser: "assets/teasers/when-to-switch.mp4",
     poster: "assets/teasers/when-to-switch.jpg",
