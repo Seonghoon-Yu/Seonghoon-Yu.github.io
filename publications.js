@@ -16,7 +16,8 @@ const PUBLICATIONS = [
     year: 2026,
     teaser: "assets/teasers/when-to-switch.mp4",
     poster: "assets/teasers/when-to-switch.jpg",
-    links: { code: "https://github.com/Seonghoon-Yu/RACE-VLA" },
+    links: { arxiv: "2610.05719", code: "https://github.com/Seonghoon-Yu/RACE-VLA" },
+    bib: { journal: "arXiv preprint arXiv:2610.05719" },
   },
   {
     title: "Hide to See: Reasoning-prefix Masking for Visual-anchored Thinking in VLM Distillation",
